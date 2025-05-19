@@ -1,0 +1,39 @@
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+select {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin: 10px 0;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+label {
+  font-weight: bold;
+  margin-top: 20px;
+  display: block;
+}
+
+
+.address {
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.map {
+  height: 400px;
+  width: 400px;
+}
