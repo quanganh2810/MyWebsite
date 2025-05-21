@@ -34,6 +34,7 @@ function Hanoi() {
       <header>
         <h1>🍜 Food Spotter: Hanoi & Singapore</h1>
         <p>Find delicious recommendations and see them on the map!</p>
+        <p>Note: The backend is being hosted on Render which needs to be activated upon request. Please allow for a 30s wait after selection.</p>
       </header>
 
       <label>Select a place:</label>
