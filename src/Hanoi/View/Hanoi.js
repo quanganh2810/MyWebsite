@@ -35,6 +35,8 @@ function Hanoi() {
         <h1>🍜 Food Spotter: Hanoi & Singapore</h1>
         <p>Find delicious recommendations and see them on the map!</p>
         <p>Note: The backend is being hosted on Render which needs to be activated upon request. Please allow for a 30s wait after selection.</p>
+        <p>Bug fixing: If the information is still not loaded after a while, most likely the Render server expires since I am using the free tier. Drop me an email to let me know!</p>
+        <p>Updates: If you have any good spot for food in any country, drop me an email and Ill add it in!</p>
       </header>
 
       <label>Select a place:</label>

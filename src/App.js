@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hi! I'm Nguyen Quang Anh</h1>
-        <p>Welcome to my personal website! You can learn about me here or get recommendations on where to eat in Hanoi, Vietnam!</p>
+        <p>Welcome to my personal website! You can learn about me here or get recommendations on where to eat in Hanoi, Vietnam or Singapore!</p>
       </header>
 
       <section>
@@ -21,7 +21,7 @@ function App() {
             <h2>Introduction</h2>
             <p>
               Hi, I am Quang Anh! I am a Computer Engineering graduate from NUS with a passion for developing applications.
-              This is my personal website, where I share my experiences and some travel hints when you are going to Hanoi, Vietnam!
+              This is my personal website, where I share my experiences and some travel hints when you are going to Hanoi, Vietnam or Singapore!
             </p>
             <a href="https://github.com/quanganh2810" target="_blank" rel="noopener noreferrer">GitHub</a> <span>|</span>
             <a href="https://www.linkedin.com/in/nguyen-quang-anh-484786276/" target="_blank" rel="noopener noreferrer">LinkedIn</a> <span>|</span>
