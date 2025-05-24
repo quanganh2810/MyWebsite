@@ -36,18 +36,10 @@ function App() {
 
       <div>Click on one of the tabs to find out more about me!</div>
       <nav className="nav-container">
-        <div className='nav-box'>
-        <Link to="/experience">My Experience</Link>
-        </div>
-        <div className='nav-box'>
-        <Link to="/story">My Story</Link>
-        </div>
-        <div className='nav-box'>
-        <Link to="/projects">Projects</Link>
-        </div>
-        <div className='nav-box'>
-        <Link to="/hanoi">Hanoi's Food Recommendations</Link>
-        </div>
+        <Link to="/experience" className='nav-box'>My Experience</Link>
+        <Link to="/story" className='nav-box'>My Story</Link>
+        <Link to="/projects" className='nav-box'>Projects</Link>
+        <Link to="/hanoi" className='nav-box'>Hanoi's Food Recommendations</Link>
       </nav>
 
       {/* This will switch the page content */}
